@@ -1,0 +1,5 @@
+venv
+.env
+MongoURI.txt
+__pycache__
+.idea
